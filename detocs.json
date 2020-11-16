@@ -282,5 +282,22 @@
       "smashgg": { "id": "22107" },
       "challonge": { "id": "157010" }
     }
+  },
+  {
+    "id": "ggxx",
+    "name": "Guilty Gear XX Accent Core +R",
+    "shortNames": [
+      "GGXXAC+R",
+      "+R"
+    ],
+    "hashtags": [
+      "GGXXACPR"
+    ],
+    "additionalTags": [ "Guilty Gear" ],
+    "serviceInfo": {
+      "twitch": { "id": "Guilty Gear XX Accent Core" },
+      "smashgg": { "id": "3960" },
+      "challonge": { "id": "262" }
+    }
   }
 ]
