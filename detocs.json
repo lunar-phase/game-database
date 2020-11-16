@@ -48,7 +48,8 @@
     ],
     "serviceInfo": {
       "twitch": { "id": "BlazBlue: Central Fiction" },
-      "smashgg": { "id": "37" }
+      "smashgg": { "id": "37" },
+      "challonge": { "id": "55777" }
     }
   },
   {
@@ -64,7 +65,8 @@
     ],
     "serviceInfo": {
       "twitch": { "id": "Samurai Shodown" },
-      "smashgg": { "id": "3568" }
+      "smashgg": { "id": "3568" },
+      "challonge": { "id": "39280" }
     }
   },
   {
@@ -97,7 +99,8 @@
     ],
     "serviceInfo": {
       "twitch": { "id": "The King of Fighters XIII" },
-      "smashgg": { "id": "9690" }
+      "smashgg": { "id": "9690" },
+      "challonge": { "id": "413" }
     }
   },
   {
@@ -210,7 +213,8 @@
     "additionalTags": ["King of Fighters XIV", "King of Fighters 14", "King of Fighters", "KOF14"],
     "serviceInfo": {
       "twitch": { "id": "The King of Fighters XIV" },
-      "smashgg": { "id": "38" }
+      "smashgg": { "id": "38" },
+      "challonge": { "id": "57763" }
     }
   },
   {
@@ -243,7 +247,8 @@
     ],
     "serviceInfo": {
       "twitch": { "id": "The King of Fighters 2002 Unlimited Match" },
-      "smashgg": { "id": "33632" }
+      "smashgg": { "id": "33632" },
+      "challonge": { "id": "5338" }
     }
   },
   {
@@ -274,7 +279,8 @@
     "additionalTags": ["Granblue Fantasy", "Granblue", "GBFV"],
     "serviceInfo": {
       "twitch": { "id": "Granblue Fantasy: Versus" },
-      "smashgg": { "id": "22107" }
+      "smashgg": { "id": "22107" },
+      "challonge": { "id": "157010" }
     }
   }
 ]
