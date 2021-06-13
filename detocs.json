@@ -300,5 +300,22 @@
       "smashgg": { "id": "22406" },
       "challonge": { "id": "262" }
     }
+  },
+  {
+    "id": "ggst",
+    "name": "Guilty Gear: Strive",
+    "shortNames": [
+      "Strive",
+      "GGST"
+    ],
+    "hashtags": [
+      "GGST"
+    ],
+    "additionalTags": [ "Guilty Gear" ],
+    "serviceInfo": {
+      "twitch": { "id": "Guilty Gear: Strive" },
+      "smashgg": { "id": "33945" },
+      "challonge": { "id": "198501" }
+    }
   }
 ]
