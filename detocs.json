@@ -38,6 +38,40 @@
     }
   },
   {
+    "id": "mbac",
+    "name": "Melty Blood Act Cadenza",
+    "shortNames": [
+      "Melty Blood",
+      "Melty"
+    ],
+    "hashtags": [
+      "MBAC",
+      "メルブラ"
+    ],
+    "additionalTags": ["Melty Blood", "Melty"],
+    "serviceInfo": {
+      "twitch": { "id": "Melty Blood Act Cadenza Ver. B" },
+      "smashgg": { "id": "29412" }
+    }
+  },
+  {
+    "id": "mbtl",
+    "name": "Melty Blood Type Lumina",
+    "shortNames": [
+      "Melty Blood",
+      "Melty"
+    ],
+    "hashtags": [
+      "MBTL",
+      "メルブラ"
+    ],
+    "additionalTags": ["Melty Blood", "Melty"],
+    "serviceInfo": {
+      "twitch": { "id": "Melty Blood: Type Lumina" },
+      "smashgg": { "id": "36865" }
+    }
+  },
+  {
     "id": "bbcf",
     "name": "Blazblue Central Fiction",
     "shortNames": [
