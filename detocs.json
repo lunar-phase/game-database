@@ -68,7 +68,8 @@
     "additionalTags": ["Melty Blood", "Melty"],
     "serviceInfo": {
       "twitch": { "id": "Melty Blood: Type Lumina" },
-      "smashgg": { "id": "36865" }
+      "smashgg": { "id": "36865" },
+      "challonge": { "id": "251352" }
     }
   },
   {
