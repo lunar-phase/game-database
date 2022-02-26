@@ -253,6 +253,24 @@
     }
   },
   {
+    "id": "kofxv",
+    "name": "The King of Fighters XV",
+    "shortNames": [
+      "King of Fighters XV",
+      "KOF XV"
+    ],
+    "hashtags": [
+      "KOFXV",
+      "KOF"
+    ],
+    "additionalTags": ["King of Fighters XV", "King of Fighters 15", "King of Fighters", "KOF15"],
+    "serviceInfo": {
+      "twitch": { "id": "The King of Fighters XV" },
+      "smashgg": { "id": "36963" },
+      "challonge": { "id": "252493" }
+    }
+  },
+  {
     "id": "garou",
     "name": "Garou: Mark of the Wolves",
     "shortNames": [
