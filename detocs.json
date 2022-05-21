@@ -356,6 +356,22 @@
     }
   },
   {
+    "id": "ggxrd",
+    "name": "Guilty Gear Xrd",
+    "shortNames": [
+      "Xrd"
+    ],
+    "hashtags": [
+      "GGXRD"
+    ],
+    "additionalTags": [ "Guilty Gear" ],
+    "serviceInfo": {
+      "twitch": { "id": "Guilty Gear Xrd: Rev 2" },
+      "smashgg": { "id": "36" },
+      "challonge": { "id": "121822" }
+    }
+  },
+  {
     "id": "ggst",
     "name": "Guilty Gear: Strive",
     "shortNames": [
