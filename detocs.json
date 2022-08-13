@@ -387,5 +387,21 @@
       "smashgg": { "id": "33945" },
       "challonge": { "id": "198501" }
     }
+  },
+  {
+    "id": "dnf",
+    "name": "DNF Duel",
+    "shortNames": [
+      "DNF"
+    ],
+    "hashtags": [
+      "DNFDuel"
+    ],
+    "additionalTags": [ "Dungeon Fighter" ],
+    "serviceInfo": {
+      "twitch": { "id": "DNF Duel" },
+      "smashgg": { "id": "41040" },
+      "challonge": { "id": "264059" }
+    }
   }
 ]
