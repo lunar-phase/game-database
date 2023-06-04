@@ -403,5 +403,21 @@
       "smashgg": { "id": "41040" },
       "challonge": { "id": "264059" }
     }
+  },
+  {
+    "id": "sf6",
+    "name": "Street Fighter 6",
+    "shortNames": [
+      "SF6"
+    ],
+    "hashtags": [
+      "SF6"
+    ],
+    "additionalTags": [ "Street Fighter" ],
+    "serviceInfo": {
+      "twitch": { "id": "Street Fighter 6" },
+      "smashgg": { "id": "43868" },
+      "challonge": { "id": "293490" }
+    }
   }
 ]
