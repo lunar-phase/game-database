@@ -405,6 +405,22 @@
     }
   },
   {
+    "id": "dbfz",
+    "name": "Dragon Ball FighterZ",
+    "shortNames": [
+      "DBFZ"
+    ],
+    "hashtags": [
+      "DBFZ"
+    ],
+    "additionalTags": [ "Dragon Ball" ],
+    "serviceInfo": {
+      "twitch": { "id": "Dragon Ball FighterZ" },
+      "smashgg": { "id": "287" },
+      "challonge": { "id": "129078" }
+    }
+  },
+  {
     "id": "sf6",
     "name": "Street Fighter 6",
     "shortNames": [
@@ -418,6 +434,22 @@
       "twitch": { "id": "Street Fighter 6" },
       "smashgg": { "id": "43868" },
       "challonge": { "id": "293490" }
+    }
+  },
+  {
+    "id": "umvc3",
+    "name": "Ultimate Marvel vs Capcom 3",
+    "shortNames": [
+      "UMvC3"
+    ],
+    "hashtags": [
+      "UMvC3"
+    ],
+    "additionalTags": [ "Marvel 3" ],
+    "serviceInfo": {
+      "twitch": { "id": "Ultimate Marvel vs. Capcom 3" },
+      "smashgg": { "id": "18" },
+      "challonge": { "id": "433" }
     }
   }
 ]
