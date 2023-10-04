@@ -451,5 +451,21 @@
       "smashgg": { "id": "18" },
       "challonge": { "id": "433" }
     }
+  },
+  {
+    "id": "mk1",
+    "name": "Mortal Kombat 1",
+    "shortNames": [
+      "MK1"
+    ],
+    "hashtags": [
+      "MK1"
+    ],
+    "additionalTags": [ "Mortal Kombat" ],
+    "serviceInfo": {
+      "twitch": { "id": "Mortal Kombat 1" },
+      "smashgg": { "id": "48599" },
+      "challonge": { "id": "120971" }
+    }
   }
 ]
