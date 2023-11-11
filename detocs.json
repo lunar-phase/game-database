@@ -1,78 +1,5 @@
 [
   {
-    "id": "uni",
-    "name": "Under Night In-Birth Exe:Late[cl-r]",
-    "shortNames": [
-      "Under Night In-Birth",
-      "Under Night",
-      "UNIclr"
-    ],
-    "hashtags": [
-      "UNIclr",
-      "inbirth"
-    ],
-    "additionalTags": ["Under Night In-Birth", "Under Night"],
-    "serviceInfo": {
-      "twitch": { "id": "Under Night In-Birth Exe:Late[cl-r]" },
-      "smashgg": { "id": "33870" },
-      "challonge": { "id": "186168" },
-      "battlefy": { "id": "5e7e0d0ba6da6f1083738975" }
-    }
-  },
-  {
-    "id": "melty",
-    "name": "Melty Blood Actress Again Current Code",
-    "shortNames": [
-      "Melty Blood",
-      "Melty"
-    ],
-    "hashtags": [
-      "MBAACC",
-      "メルブラ"
-    ],
-    "additionalTags": ["Melty Blood", "Melty"],
-    "serviceInfo": {
-      "twitch": { "id": "Melty Blood: Actress Again: Current Code" },
-      "smashgg": { "id": "22407" },
-      "challonge": { "id": "306" }
-    }
-  },
-  {
-    "id": "mbac",
-    "name": "Melty Blood Act Cadenza",
-    "shortNames": [
-      "Melty Blood",
-      "Melty"
-    ],
-    "hashtags": [
-      "MBAC",
-      "メルブラ"
-    ],
-    "additionalTags": ["Melty Blood", "Melty"],
-    "serviceInfo": {
-      "twitch": { "id": "Melty Blood Act Cadenza Ver. B" },
-      "smashgg": { "id": "29412" }
-    }
-  },
-  {
-    "id": "mbtl",
-    "name": "Melty Blood Type Lumina",
-    "shortNames": [
-      "Melty Blood",
-      "Melty"
-    ],
-    "hashtags": [
-      "MBTL",
-      "メルブラ"
-    ],
-    "additionalTags": ["Melty Blood", "Melty"],
-    "serviceInfo": {
-      "twitch": { "id": "Melty Blood: Type Lumina" },
-      "smashgg": { "id": "36865" },
-      "challonge": { "id": "251352" }
-    }
-  },
-  {
     "id": "bbcf",
     "name": "Blazblue Central Fiction",
     "shortNames": [
@@ -83,60 +10,39 @@
       "BBCF"
     ],
     "serviceInfo": {
-      "twitch": { "id": "BlazBlue: Central Fiction" },
-      "smashgg": { "id": "37" },
-      "challonge": { "id": "55777" }
+      "twitch": {
+        "id": "BlazBlue: Central Fiction"
+      },
+      "smashgg": {
+        "id": "37"
+      },
+      "challonge": {
+        "id": "55777"
+      }
     }
   },
   {
-    "id": "ss7",
-    "name": "Samurai Shodown",
+    "id": "dbfz",
+    "name": "Dragon Ball FighterZ",
     "shortNames": [
-      "SamSho 7",
-      "SS7"
+      "DBFZ"
     ],
     "hashtags": [
-      "SamSho",
-      "EmbraceDeath"
+      "DBFZ"
+    ],
+    "additionalTags": [
+      "Dragon Ball"
     ],
     "serviceInfo": {
-      "twitch": { "id": "SAMURAI SHODOWN" },
-      "smashgg": { "id": "3568" },
-      "challonge": { "id": "39280" }
-    }
-  },
-  {
-    "id": "ssv",
-    "name": "Samurai Shodown V Special",
-    "shortNames": [
-      "Samurai Shodown V",
-      "SamSho 5",
-      "SSVSP"
-    ],
-    "hashtags": [
-      "SSVSP",
-      "SamSho"
-    ],
-    "serviceInfo": {
-      "twitch": { "id": "Samurai Shodown V Special" },
-      "smashgg": { "id": "16391" }
-    }
-  },
-  {
-    "id": "kofxiii",
-    "name": "The King of Fighters XIII",
-    "shortNames": [
-      "King of Fighters XIII",
-      "KOF XIII"
-    ],
-    "hashtags": [
-      "KOFXIII",
-      "KOF"
-    ],
-    "serviceInfo": {
-      "twitch": { "id": "The King of Fighters XIII" },
-      "smashgg": { "id": "9690" },
-      "challonge": { "id": "413" }
+      "twitch": {
+        "id": "Dragon Ball FighterZ"
+      },
+      "smashgg": {
+        "id": "287"
+      },
+      "challonge": {
+        "id": "129078"
+      }
     }
   },
   {
@@ -151,124 +57,55 @@
       "DFCI"
     ],
     "serviceInfo": {
-      "twitch": { "id": "Dengeki Bunko: Fighting Climax Ignition" },
-      "smashgg": { "id": "4267" }
+      "twitch": {
+        "id": "Dengeki Bunko: Fighting Climax Ignition"
+      },
+      "smashgg": {
+        "id": "4267"
+      }
     }
   },
   {
-    "id": "kof98",
-    "name": "The King of Fighters '98",
+    "id": "dnf",
+    "name": "DNF Duel",
     "shortNames": [
-      "King of Fighters 98",
-      "KOF 98"
+      "DNF"
     ],
     "hashtags": [
-      "KOF98",
-      "KOF"
+      "DNFDuel"
     ],
-    "additionalTags": ["KOF98"],
+    "additionalTags": [
+      "Dungeon Fighter"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "The King of Fighters '98: The Slugfest" },
-      "smashgg": { "id": "2804" }
+      "twitch": {
+        "id": "DNF Duel"
+      },
+      "smashgg": {
+        "id": "41040"
+      },
+      "challonge": {
+        "id": "264059"
+      }
     }
   },
   {
-    "id": "kof98um",
-    "name": "The King of Fighters '98: UMFE",
+    "id": "ffs",
+    "name": "Fatal Fury Special",
     "shortNames": [
-      "King of Fighters 98 UMFE",
-      "KOF 98 UMFE"
+      "Fatal Fury SP"
     ],
     "hashtags": [
-      "KOF98",
-      "KOF"
-    ],
-    "additionalTags": ["KOF98", "KOF98UM"],
-    "serviceInfo": {
-      "twitch": { "id": "The King of Fighters '98 Ultimate Match Final Edition" },
-      "smashgg": { "id": "17413" }
-    }
-  },
-  {
-    "id": "sg",
-    "name": "Skullgirls 2nd Encore",
-    "shortNames": [
-      "Skullgirls",
-      "SG2E"
-    ],
-    "hashtags": [
-      "Skullgirls"
+      "FatalFurySpecial",
+      "FatalFury"
     ],
     "serviceInfo": {
-      "twitch": { "id": "Skullgirls" },
-      "smashgg": { "id": "32" },
-      "challonge": { "id": "367" }
-    }
-  },
-  {
-    "id": "sc6",
-    "name": "SOULCALIBUR VI",
-    "shortNames": [
-      "SC6"
-    ],
-    "hashtags": [
-      "SOULCALIBURVI",
-      "SC6",
-      "ソウルキャリバー"
-    ],
-    "serviceInfo": {
-      "twitch": { "id": "Soulcalibur VI" },
-      "smashgg": { "id": "904" }
-    }
-  },
-  {
-    "id": "t7",
-    "name": "Tekken 7",
-    "shortNames": [
-      "T7"
-    ],
-    "hashtags": [
-      "TEKKEN7"
-    ],
-    "serviceInfo": {
-      "twitch": { "id": "Tekken 7" },
-      "smashgg": { "id": "17" }
-    }
-  },
-  {
-    "id": "kofxiv",
-    "name": "The King of Fighters XIV",
-    "shortNames": [
-      "King of Fighters XIV",
-      "KOF XIV"
-    ],
-    "hashtags": [
-      "KOFXIV",
-      "KOF"
-    ],
-    "additionalTags": ["King of Fighters XIV", "King of Fighters 14", "King of Fighters", "KOF14"],
-    "serviceInfo": {
-      "twitch": { "id": "The King of Fighters XIV" },
-      "smashgg": { "id": "38" },
-      "challonge": { "id": "57763" }
-    }
-  },
-  {
-    "id": "kofxv",
-    "name": "The King of Fighters XV",
-    "shortNames": [
-      "King of Fighters XV",
-      "KOF XV"
-    ],
-    "hashtags": [
-      "KOFXV",
-      "KOF"
-    ],
-    "additionalTags": ["King of Fighters XV", "King of Fighters 15", "King of Fighters", "KOF15"],
-    "serviceInfo": {
-      "twitch": { "id": "The King of Fighters XV" },
-      "smashgg": { "id": "36963" },
-      "challonge": { "id": "252493" }
+      "twitch": {
+        "id": "Fatal Fury Special"
+      },
+      "smashgg": {
+        "id": "8093"
+      }
     }
   },
   {
@@ -283,8 +120,113 @@
       "Garou"
     ],
     "serviceInfo": {
-      "twitch": { "id": "Garou: Mark of the Wolves" },
-      "smashgg": { "id": "10838" }
+      "twitch": {
+        "id": "Garou: Mark of the Wolves"
+      },
+      "smashgg": {
+        "id": "10838"
+      }
+    }
+  },
+  {
+    "id": "gbvs",
+    "name": "Granblue Fantasy: Versus",
+    "shortNames": [
+      "Granblue Versus",
+      "Granblue"
+    ],
+    "hashtags": [
+      "GBVS"
+    ],
+    "additionalTags": [
+      "Granblue Fantasy",
+      "Granblue",
+      "GBFV"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Granblue Fantasy: Versus"
+      },
+      "smashgg": {
+        "id": "22107"
+      },
+      "challonge": {
+        "id": "157010"
+      }
+    }
+  },
+  {
+    "id": "ggst",
+    "name": "Guilty Gear: Strive",
+    "shortNames": [
+      "Strive",
+      "GGST"
+    ],
+    "hashtags": [
+      "GGST"
+    ],
+    "additionalTags": [
+      "Guilty Gear"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Guilty Gear: Strive"
+      },
+      "smashgg": {
+        "id": "33945"
+      },
+      "challonge": {
+        "id": "198501"
+      }
+    }
+  },
+  {
+    "id": "ggxrd",
+    "name": "Guilty Gear Xrd",
+    "shortNames": [
+      "Xrd"
+    ],
+    "hashtags": [
+      "GGXRD"
+    ],
+    "additionalTags": [
+      "Guilty Gear"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Guilty Gear Xrd: Rev 2"
+      },
+      "smashgg": {
+        "id": "36"
+      },
+      "challonge": {
+        "id": "121822"
+      }
+    }
+  },
+  {
+    "id": "ggxx",
+    "name": "Guilty Gear XX Accent Core +R",
+    "shortNames": [
+      "GGXXAC+R",
+      "+R"
+    ],
+    "hashtags": [
+      "GGXXACPR"
+    ],
+    "additionalTags": [
+      "Guilty Gear"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Guilty Gear XX Accent Core Plus R"
+      },
+      "smashgg": {
+        "id": "22406"
+      },
+      "challonge": {
+        "id": "262"
+      }
     }
   },
   {
@@ -301,155 +243,221 @@
       "KOF"
     ],
     "serviceInfo": {
-      "twitch": { "id": "The King of Fighters 2002 Unlimited Match" },
-      "smashgg": { "id": "33632" },
-      "challonge": { "id": "5338" }
+      "twitch": {
+        "id": "The King of Fighters 2002 Unlimited Match"
+      },
+      "smashgg": {
+        "id": "33632"
+      },
+      "challonge": {
+        "id": "5338"
+      }
     }
   },
   {
-    "id": "ffs",
-    "name": "Fatal Fury Special",
+    "id": "kof98",
+    "name": "The King of Fighters '98",
     "shortNames": [
-      "Fatal Fury SP"
+      "King of Fighters 98",
+      "KOF 98"
     ],
     "hashtags": [
-      "FatalFurySpecial",
-      "FatalFury"
+      "KOF98",
+      "KOF"
+    ],
+    "additionalTags": [
+      "KOF98"
     ],
     "serviceInfo": {
-      "twitch": { "id": "Fatal Fury Special" },
-      "smashgg": { "id": "8093" }
+      "twitch": {
+        "id": "The King of Fighters '98: The Slugfest"
+      },
+      "smashgg": {
+        "id": "2804"
+      }
     }
   },
   {
-    "id": "gbvs",
-    "name": "Granblue Fantasy: Versus",
+    "id": "kof98um",
+    "name": "The King of Fighters '98: UMFE",
     "shortNames": [
-      "Granblue Versus",
-      "Granblue"
+      "King of Fighters 98 UMFE",
+      "KOF 98 UMFE"
     ],
     "hashtags": [
-      "GBVS"
+      "KOF98",
+      "KOF"
     ],
-    "additionalTags": ["Granblue Fantasy", "Granblue", "GBFV"],
+    "additionalTags": [
+      "KOF98",
+      "KOF98UM"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "Granblue Fantasy: Versus" },
-      "smashgg": { "id": "22107" },
-      "challonge": { "id": "157010" }
+      "twitch": {
+        "id": "The King of Fighters '98 Ultimate Match Final Edition"
+      },
+      "smashgg": {
+        "id": "17413"
+      }
     }
   },
   {
-    "id": "ggxx",
-    "name": "Guilty Gear XX Accent Core +R",
+    "id": "kofxiii",
+    "name": "The King of Fighters XIII",
     "shortNames": [
-      "GGXXAC+R",
-      "+R"
+      "King of Fighters XIII",
+      "KOF XIII"
     ],
     "hashtags": [
-      "GGXXACPR"
+      "KOFXIII",
+      "KOF"
     ],
-    "additionalTags": [ "Guilty Gear" ],
     "serviceInfo": {
-      "twitch": { "id": "Guilty Gear XX Accent Core Plus R" },
-      "smashgg": { "id": "22406" },
-      "challonge": { "id": "262" }
+      "twitch": {
+        "id": "The King of Fighters XIII"
+      },
+      "smashgg": {
+        "id": "9690"
+      },
+      "challonge": {
+        "id": "413"
+      }
     }
   },
   {
-    "id": "ggxrd",
-    "name": "Guilty Gear Xrd",
+    "id": "kofxiv",
+    "name": "The King of Fighters XIV",
     "shortNames": [
-      "Xrd"
+      "King of Fighters XIV",
+      "KOF XIV"
     ],
     "hashtags": [
-      "GGXRD"
+      "KOFXIV",
+      "KOF"
     ],
-    "additionalTags": [ "Guilty Gear" ],
+    "additionalTags": [
+      "King of Fighters XIV",
+      "King of Fighters 14",
+      "King of Fighters",
+      "KOF14"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "Guilty Gear Xrd: Rev 2" },
-      "smashgg": { "id": "36" },
-      "challonge": { "id": "121822" }
+      "twitch": {
+        "id": "The King of Fighters XIV"
+      },
+      "smashgg": {
+        "id": "38"
+      },
+      "challonge": {
+        "id": "57763"
+      }
     }
   },
   {
-    "id": "ggst",
-    "name": "Guilty Gear: Strive",
+    "id": "kofxv",
+    "name": "The King of Fighters XV",
     "shortNames": [
-      "Strive",
-      "GGST"
+      "King of Fighters XV",
+      "KOF XV"
     ],
     "hashtags": [
-      "GGST"
+      "KOFXV",
+      "KOF"
     ],
-    "additionalTags": [ "Guilty Gear" ],
+    "additionalTags": [
+      "King of Fighters XV",
+      "King of Fighters 15",
+      "King of Fighters",
+      "KOF15"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "Guilty Gear: Strive" },
-      "smashgg": { "id": "33945" },
-      "challonge": { "id": "198501" }
+      "twitch": {
+        "id": "The King of Fighters XV"
+      },
+      "smashgg": {
+        "id": "36963"
+      },
+      "challonge": {
+        "id": "252493"
+      }
     }
   },
   {
-    "id": "dnf",
-    "name": "DNF Duel",
+    "id": "mbac",
+    "name": "Melty Blood Act Cadenza",
     "shortNames": [
-      "DNF"
+      "Melty Blood",
+      "Melty"
     ],
     "hashtags": [
-      "DNFDuel"
+      "MBAC",
+      "メルブラ"
     ],
-    "additionalTags": [ "Dungeon Fighter" ],
+    "additionalTags": [
+      "Melty Blood",
+      "Melty"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "DNF Duel" },
-      "smashgg": { "id": "41040" },
-      "challonge": { "id": "264059" }
+      "twitch": {
+        "id": "Melty Blood Act Cadenza Ver. B"
+      },
+      "smashgg": {
+        "id": "29412"
+      }
     }
   },
   {
-    "id": "dbfz",
-    "name": "Dragon Ball FighterZ",
+    "id": "mbtl",
+    "name": "Melty Blood Type Lumina",
     "shortNames": [
-      "DBFZ"
+      "Melty Blood",
+      "Melty"
     ],
     "hashtags": [
-      "DBFZ"
+      "MBTL",
+      "メルブラ"
     ],
-    "additionalTags": [ "Dragon Ball" ],
+    "additionalTags": [
+      "Melty Blood",
+      "Melty"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "Dragon Ball FighterZ" },
-      "smashgg": { "id": "287" },
-      "challonge": { "id": "129078" }
+      "twitch": {
+        "id": "Melty Blood: Type Lumina"
+      },
+      "smashgg": {
+        "id": "36865"
+      },
+      "challonge": {
+        "id": "251352"
+      }
     }
   },
   {
-    "id": "sf6",
-    "name": "Street Fighter 6",
+    "id": "melty",
+    "name": "Melty Blood Actress Again Current Code",
     "shortNames": [
-      "SF6"
+      "Melty Blood",
+      "Melty"
     ],
     "hashtags": [
-      "SF6"
+      "MBAACC",
+      "メルブラ"
     ],
-    "additionalTags": [ "Street Fighter" ],
+    "additionalTags": [
+      "Melty Blood",
+      "Melty"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "Street Fighter 6" },
-      "smashgg": { "id": "43868" },
-      "challonge": { "id": "293490" }
-    }
-  },
-  {
-    "id": "umvc3",
-    "name": "Ultimate Marvel vs Capcom 3",
-    "shortNames": [
-      "UMvC3"
-    ],
-    "hashtags": [
-      "UMvC3"
-    ],
-    "additionalTags": [ "Marvel 3" ],
-    "serviceInfo": {
-      "twitch": { "id": "Ultimate Marvel vs. Capcom 3" },
-      "smashgg": { "id": "18" },
-      "challonge": { "id": "433" }
+      "twitch": {
+        "id": "Melty Blood: Actress Again: Current Code"
+      },
+      "smashgg": {
+        "id": "22407"
+      },
+      "challonge": {
+        "id": "306"
+      }
     }
   },
   {
@@ -461,11 +469,202 @@
     "hashtags": [
       "MK1"
     ],
-    "additionalTags": [ "Mortal Kombat" ],
+    "additionalTags": [
+      "Mortal Kombat"
+    ],
     "serviceInfo": {
-      "twitch": { "id": "Mortal Kombat 1" },
-      "smashgg": { "id": "48599" },
-      "challonge": { "id": "120971" }
+      "twitch": {
+        "id": "Mortal Kombat 1"
+      },
+      "smashgg": {
+        "id": "48599"
+      },
+      "challonge": {
+        "id": "120971"
+      }
+    }
+  },
+  {
+    "id": "sc6",
+    "name": "SOULCALIBUR VI",
+    "shortNames": [
+      "SC6"
+    ],
+    "hashtags": [
+      "SOULCALIBURVI",
+      "SC6",
+      "ソウルキャリバー"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Soulcalibur VI"
+      },
+      "smashgg": {
+        "id": "904"
+      }
+    }
+  },
+  {
+    "id": "sf6",
+    "name": "Street Fighter 6",
+    "shortNames": [
+      "SF6"
+    ],
+    "hashtags": [
+      "SF6"
+    ],
+    "additionalTags": [
+      "Street Fighter"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Street Fighter 6"
+      },
+      "smashgg": {
+        "id": "43868"
+      },
+      "challonge": {
+        "id": "293490"
+      }
+    }
+  },
+  {
+    "id": "sg",
+    "name": "Skullgirls 2nd Encore",
+    "shortNames": [
+      "Skullgirls",
+      "SG2E"
+    ],
+    "hashtags": [
+      "Skullgirls"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Skullgirls"
+      },
+      "smashgg": {
+        "id": "32"
+      },
+      "challonge": {
+        "id": "367"
+      }
+    }
+  },
+  {
+    "id": "ss7",
+    "name": "Samurai Shodown",
+    "shortNames": [
+      "SamSho 7",
+      "SS7"
+    ],
+    "hashtags": [
+      "SamSho",
+      "EmbraceDeath"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "SAMURAI SHODOWN"
+      },
+      "smashgg": {
+        "id": "3568"
+      },
+      "challonge": {
+        "id": "39280"
+      }
+    }
+  },
+  {
+    "id": "ssv",
+    "name": "Samurai Shodown V Special",
+    "shortNames": [
+      "Samurai Shodown V",
+      "SamSho 5",
+      "SSVSP"
+    ],
+    "hashtags": [
+      "SSVSP",
+      "SamSho"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Samurai Shodown V Special"
+      },
+      "smashgg": {
+        "id": "16391"
+      }
+    }
+  },
+  {
+    "id": "t7",
+    "name": "Tekken 7",
+    "shortNames": [
+      "T7"
+    ],
+    "hashtags": [
+      "TEKKEN7"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Tekken 7"
+      },
+      "smashgg": {
+        "id": "17"
+      }
+    }
+  },
+  {
+    "id": "umvc3",
+    "name": "Ultimate Marvel vs Capcom 3",
+    "shortNames": [
+      "UMvC3"
+    ],
+    "hashtags": [
+      "UMvC3"
+    ],
+    "additionalTags": [
+      "Marvel 3"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Ultimate Marvel vs. Capcom 3"
+      },
+      "smashgg": {
+        "id": "18"
+      },
+      "challonge": {
+        "id": "433"
+      }
+    }
+  },
+  {
+    "id": "uni",
+    "name": "Under Night In-Birth Exe:Late[cl-r]",
+    "shortNames": [
+      "Under Night In-Birth",
+      "Under Night",
+      "UNIclr"
+    ],
+    "hashtags": [
+      "UNIclr",
+      "inbirth"
+    ],
+    "additionalTags": [
+      "Under Night In-Birth",
+      "Under Night"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Under Night In-Birth Exe:Late[cl-r]"
+      },
+      "smashgg": {
+        "id": "33870"
+      },
+      "challonge": {
+        "id": "186168"
+      },
+      "battlefy": {
+        "id": "5e7e0d0ba6da6f1083738975"
+      }
     }
   }
 ]
