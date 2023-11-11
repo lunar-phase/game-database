@@ -156,6 +156,28 @@
     }
   },
   {
+    "id": "gbvsr",
+    "name": "Granblue Fantasy Versus: Rising",
+    "shortNames": [
+      "GBVSR"
+    ],
+    "hashtags": [
+      "GBVSR"
+    ],
+    "additionalTags": [
+      "Granblue Versus",
+      "GBFV"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Granblue Fantasy Versus: Rising"
+      },
+      "smashgg": {
+        "id": "48548"
+      }
+    }
+  },
+  {
     "id": "ggst",
     "name": "Guilty Gear: Strive",
     "shortNames": [
@@ -485,6 +507,32 @@
     }
   },
   {
+    "id": "p4u2",
+    "name": "Persona 4 Arena Ultimax",
+    "shortNames": [
+      "P4U2"
+    ],
+    "hashtags": [
+      "P4U2",
+      "P4U2R",
+      "P4AU"
+    ],
+    "additionalTags": [
+      "Persona 4 Ultimax"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Persona 4 Arena Ultimax"
+      },
+      "smashgg": {
+        "id": "11065"
+      },
+      "challonge": {
+        "id": "23768"
+      }
+    }
+  },
+  {
     "id": "sc6",
     "name": "SOULCALIBUR VI",
     "shortNames": [
@@ -501,6 +549,28 @@
       },
       "smashgg": {
         "id": "904"
+      }
+    }
+  },
+  {
+    "id": "scon4",
+    "name": "Super Naruto: Clash of Ninja 4",
+    "shortNames": [
+      "SCON4"
+    ],
+    "hashtags": [
+      "SCON4",
+      "SGNT4"
+    ],
+    "additionalTags": [
+      "Gekitou Ninja Taisen"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Naruto: Gekitou Ninja Taisen! 4"
+      },
+      "smashgg": {
+        "id": "35218"
       }
     }
   },
@@ -664,6 +734,30 @@
       },
       "battlefy": {
         "id": "5e7e0d0ba6da6f1083738975"
+      }
+    }
+  },
+  {
+    "id": "uni2",
+    "name": "Under Night In-Birth II Sys:Celes",
+    "shortNames": [
+      "Under Night In-Birth 2",
+      "UNI 2"
+    ],
+    "hashtags": [
+      "UNI2",
+      "inbirth",
+      "UNISC"
+    ],
+    "additionalTags": [
+      "UNDERNIGHT"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+      },
+      "smashgg": {
+        "id": "50203"
       }
     }
   }
