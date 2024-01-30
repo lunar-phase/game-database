@@ -679,6 +679,30 @@
       },
       "smashgg": {
         "id": "17"
+      },
+      "challonge": {
+        "id": "39782"
+      }
+    }
+  },
+  {
+    "id": "t8",
+    "name": "Tekken 8",
+    "shortNames": [
+      "T8"
+    ],
+    "hashtags": [
+      "TEKKEN8"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Tekken 8"
+      },
+      "smashgg": {
+        "id": "49783"
+      },
+      "challonge": {
+        "id": "236261"
       }
     }
   },
