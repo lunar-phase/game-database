@@ -252,6 +252,27 @@
     }
   },
   {
+    "id": "ki",
+    "name": "Killer Instinct",
+    "shortNames": [
+      "KI"
+    ],
+    "hashtags": [
+      "PlayKI"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Killer Instinct"
+      },
+      "smashgg": {
+        "id": "19"
+      },
+      "challonge": {
+        "id": "3000"
+      }
+    }
+  },
+  {
     "id": "kof02",
     "name": "The King of Fighters 2002: UM",
     "shortNames": [
@@ -533,6 +554,22 @@
     }
   },
   {
+    "id": "roa2",
+    "name": "Rivals 2",
+    "shortNames": [],
+    "hashtags": [
+      "Rivals2"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Rivals 2"
+      },
+      "smashgg": {
+        "id": "53945"
+      }
+    }
+  },
+  {
     "id": "sc6",
     "name": "SOULCALIBUR VI",
     "shortNames": [
@@ -599,6 +636,27 @@
     }
   },
   {
+    "id": "sfv",
+    "name": "Street Fighter V",
+    "shortNames": [
+      "SFV"
+    ],
+    "hashtags": [
+      "SFV"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Street Fighter V"
+      },
+      "smashgg": {
+        "id": "10055"
+      },
+      "challonge": {
+        "id": "183040"
+      }
+    }
+  },
+  {
     "id": "sg",
     "name": "Skullgirls 2nd Encore",
     "shortNames": [
@@ -640,6 +698,50 @@
       },
       "challonge": {
         "id": "39280"
+      }
+    }
+  },
+  {
+    "id": "ssbm",
+    "name": "Super Smash Bros. Melee",
+    "shortNames": [
+      "Melee",
+      "SSBM"
+    ],
+    "hashtags": [
+      "SSBM"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Super Smash Bros. Melee"
+      },
+      "smashgg": {
+        "id": "1"
+      },
+      "challonge": {
+        "id": "394"
+      }
+    }
+  },
+  {
+    "id": "ssbu",
+    "name": "Super Smash Bros. Ultimate",
+    "shortNames": [
+      "Smash Ultimate",
+      "SSBU"
+    ],
+    "hashtags": [
+      "SSBU"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Super Smash Bros. Ultimate"
+      },
+      "smashgg": {
+        "id": "1386"
+      },
+      "challonge": {
+        "id": "141059"
       }
     }
   },
@@ -782,6 +884,27 @@
       },
       "smashgg": {
         "id": "50203"
+      }
+    }
+  },
+  {
+    "id": "usf4",
+    "name": "Ultra Street Fighter IV",
+    "shortNames": [
+      "USF4"
+    ],
+    "hashtags": [
+      "USFIV"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Ultra Street Fighter IV"
+      },
+      "smashgg": {
+        "id": "16"
+      },
+      "challonge": {
+        "id": "1234"
       }
     }
   }
