@@ -22,6 +22,25 @@
     }
   },
   {
+    "id": "conr3",
+    "name": "Naruto Shippuden: Clash of Ninja Revolution 3",
+    "shortNames": [
+      "Clash of Ninja Revolution 3",
+      "Naruto CoNR 3"
+    ],
+    "hashtags": [
+      "CONR3"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Naruto Shippuden: Clash of Ninja Revolution 3"
+      },
+      "smashgg": {
+        "id": "12860"
+      }
+    }
+  },
+  {
     "id": "dbfz",
     "name": "Dragon Ball FighterZ",
     "shortNames": [
