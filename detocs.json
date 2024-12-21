@@ -546,6 +546,27 @@
     }
   },
   {
+    "id": "mvc2",
+    "name": "Marvel vs Capcom 2",
+    "shortNames": [
+      "MvC2"
+    ],
+    "hashtags": [
+      "MvC2"
+    ],
+    "additionalTags": [
+      "Marvel 2"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Marvel vs. Capcom 2: New Age of Heroes"
+      },
+      "smashgg": {
+        "id": "3742"
+      }
+    }
+  },
+  {
     "id": "p4u2",
     "name": "Persona 4 Arena Ultimax",
     "shortNames": [
