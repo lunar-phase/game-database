@@ -109,6 +109,25 @@
     }
   },
   {
+    "id": "ffcotw",
+    "name": "Fatal Fury: City of the Wolves",
+    "shortNames": [
+      "Fatal Fury CotW"
+    ],
+    "hashtags": [
+      "CotW",
+      "FatalFury"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Fatal Fury: City of the Wolves"
+      },
+      "smashgg": {
+        "id": "73221"
+      }
+    }
+  },
+  {
     "id": "ffs",
     "name": "Fatal Fury Special",
     "shortNames": [
