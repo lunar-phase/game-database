@@ -670,6 +670,24 @@
     }
   },
   {
+    "id": "sf3_3s",
+    "name": "Street Fighter III: 3rd Strike",
+    "shortNames": [
+      "3rd Strike"
+    ],
+    "hashtags": [
+      "3rd Strike"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Street Fighter III: 3rd Strike"
+      },
+      "smashgg": {
+        "id": "610"
+      }
+    }
+  },
+  {
     "id": "sf6",
     "name": "Street Fighter 6",
     "shortNames": [
