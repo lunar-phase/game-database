@@ -1,5 +1,21 @@
 [
   {
+    "id": "2xko",
+    "name": "2XKO",
+    "shortNames": [],
+    "hashtags": [
+      "2XKO"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "2XKO"
+      },
+      "smashgg": {
+        "id": "64423"
+      }
+    }
+  },
+  {
     "id": "bbcf",
     "name": "Blazblue Central Fiction",
     "shortNames": [
