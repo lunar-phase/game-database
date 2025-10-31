@@ -794,6 +794,28 @@
     }
   },
   {
+    "id": "ssbb",
+    "name": "Super Smash Bros. Brawl",
+    "shortNames": [
+      "Brawl",
+      "SSBB"
+    ],
+    "hashtags": [
+      "SSBB"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Super Smash Bros. Brawl"
+      },
+      "smashgg": {
+        "id": "5"
+      },
+      "challonge": {
+        "id": "393"
+      }
+    }
+  },
+  {
     "id": "ssbm",
     "name": "Super Smash Bros. Melee",
     "shortNames": [
