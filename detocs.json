@@ -13,7 +13,34 @@
       "smashgg": {
         "id": "64423"
       }
-    }
+    },
+    "characters": [
+      { "id": "braum", "name": "Braum" },
+      { "id": "jinx", "name": "Jinx" },
+      { "id": "ekko", "name": "Ekko" },
+      { "id": "ahri", "name": "Ahri" },
+      { "id": "yasuo", "name": "Yasuo" },
+      { "id": "illaoi", "name": "Illaoi" },
+      { "id": "darius", "name": "Darius" },
+      { "id": "vi", "name": "Vi" },
+      { "id": "blitzcrank", "name": "Blitzcrank" },
+      { "id": "warwick", "name": "Warwick" },
+      { "id": "teemo", "name": "Teemo" }
+    ],
+    "teamSize": 2,
+    "teamOptions": [
+      {
+        "id": "fuse",
+        "name": "Fuse",
+        "options": [
+          { "id": "2xassist", "name": "2X Assist" },
+          { "id": "doubledown", "name": "Double Down" },
+          { "id": "freestyle", "name": "Freestyle" },
+          { "id": "juggernaut", "name": "Juggernaut" },
+          { "id": "sidekick", "name": "Sidekick" }
+        ]
+      }
+    ]
   },
   {
     "id": "bbcf",
@@ -725,7 +752,37 @@
       "challonge": {
         "id": "293490"
       }
-    }
+    },
+    "characters": [
+      { "id": "aki", "name": "A.K.I." },
+      { "id": "akuma", "name": "Akuma" },
+      { "id": "blanka", "name": "Blanka" },
+      { "id": "c-viper", "name": "C. Viper" },
+      { "id": "cammy", "name": "Cammy" },
+      { "id": "chun-li", "name": "Chun-Li" },
+      { "id": "dee jay", "name": "Dee Jay" },
+      { "id": "dhalsim", "name": "Dhalsim" },
+      { "id": "e-honda", "name": "E. Honda" },
+      { "id": "ed", "name": "Ed" },
+      { "id": "elena", "name": "Elena" },
+      { "id": "guile", "name": "Guile" },
+      { "id": "jamie", "name": "Jamie" },
+      { "id": "jp", "name": "JP" },
+      { "id": "juri", "name": "Juri" },
+      { "id": "ken", "name": "Ken" },
+      { "id": "kimberly", "name": "Kimberly" },
+      { "id": "lily", "name": "Lily" },
+      { "id": "luke", "name": "Luke" },
+      { "id": "m-bison", "name": "M. Bison" },
+      { "id": "mai", "name": "Mai" },
+      { "id": "manon", "name": "Manon" },
+      { "id": "marisa", "name": "Marisa" },
+      { "id": "rashid", "name": "Rashid" },
+      { "id": "ryu", "name": "Ryu" },
+      { "id": "sagat", "name": "Sagat" },
+      { "id": "terry", "name": "Terry" },
+      { "id": "zangief", "name": "Zangief" }
+    ]
   },
   {
     "id": "sfv",
@@ -944,7 +1001,71 @@
       "challonge": {
         "id": "433"
       }
-    }
+    },
+    "characters": [
+      { "id": "akuma", "name": "Akuma" },
+      { "id": "amaterasu", "name": "Amaterasu" },
+      { "id": "arthur", "name": "Arthur" },
+      { "id": "c-viper", "name": "C. Viper" },
+      { "id": "captain-america", "name": "Captain America" },
+      { "id": "chris", "name": "Chris" },
+      { "id": "chun-li", "name": "Chun-Li" },
+      { "id": "dante", "name": "Dante" },
+      { "id": "deadpool", "name": "Deadpool" },
+      { "id": "doctor-doom", "name": "Doctor Doom" },
+      { "id": "doctor-strange", "name": "Doctor Strange" },
+      { "id": "dormammu", "name": "Dormammu" },
+      { "id": "felicia", "name": "Felicia" },
+      { "id": "firebrand", "name": "Firebrand" },
+      { "id": "frank-west", "name": "Frank West" },
+      { "id": "ghost-rider", "name": "Ghost Rider" },
+      { "id": "haggar", "name": "Haggar" },
+      { "id": "hawkeye", "name": "Hawkeye" },
+      { "id": "hsien-ko", "name": "Hsien-Ko" },
+      { "id": "hulk", "name": "Hulk" },
+      { "id": "iron-fist", "name": "Iron Fist" },
+      { "id": "iron-man", "name": "Iron Man" },
+      { "id": "jill", "name": "Jill" },
+      { "id": "modok", "name": "M.O.D.O.K." },
+      { "id": "magneto", "name": "Magneto" },
+      { "id": "morrigan", "name": "Morrigan" },
+      { "id": "nemesis-t-type", "name": "Nemesis T-Type" },
+      { "id": "nova", "name": "Nova" },
+      { "id": "phoenix", "name": "Phoenix" },
+      { "id": "phoenix-wright", "name": "Phoenix Wright" },
+      { "id": "rocket-raccoon", "name": "Rocket Raccoon" },
+      { "id": "ryu", "name": "Ryu" },
+      { "id": "sentinel", "name": "Sentinel" },
+      { "id": "she-hulk", "name": "She-Hulk" },
+      { "id": "shuma", "name": "Shuma-Gorath" },
+      { "id": "spencer", "name": "Spencer" },
+      { "id": "spider-man", "name": "Spider-Man" },
+      { "id": "storm", "name": "Storm" },
+      { "id": "strider", "name": "Strider Hiryu" },
+      { "id": "skrull", "name": "Super-Skrull" },
+      { "id": "taskmaster", "name": "Taskmaster" },
+      { "id": "thor", "name": "Thor" },
+      { "id": "trish", "name": "Trish" },
+      { "id": "tron", "name": "Tron" },
+      { "id": "vergil", "name": "Vergil" },
+      { "id": "viewtiful-joe", "name": "Viewtiful Joe" },
+      { "id": "wesker", "name": "Wesker" },
+      { "id": "wolverine", "name": "Wolverine" },
+      { "id": "x-23", "name": "X-23" },
+      { "id": "zero", "name": "Zero" }
+    ],
+    "teamSize": 3,
+    "characterOptions": [
+      {
+        "id": "assist",
+        "name": "Assist",
+        "options": [
+          { "id": "a", "name": "α" },
+          { "id": "b", "name": "β" },
+          { "id": "y", "name": "γ" }
+        ]
+      }
+    ]
   },
   {
     "id": "uni",
