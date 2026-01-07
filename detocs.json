@@ -28,7 +28,7 @@
       { "id": "teemo", "name": "Teemo" }
     ],
     "teamSize": 2,
-    "teamOptions": [
+    "teamConfigs": [
       {
         "id": "fuse",
         "name": "Fuse",
@@ -782,6 +782,17 @@
       { "id": "sagat", "name": "Sagat" },
       { "id": "terry", "name": "Terry" },
       { "id": "zangief", "name": "Zangief" }
+    ],
+    "characterConfigs": [
+      {
+        "id": "controls",
+        "name": "Controls",
+        "options": [
+          { "id": "classic", "name": "Classic" },
+          { "id": "modern", "name": "Modern" },
+          { "id": "dynamic", "name": "Dynamic" }
+        ]
+      }
     ]
   },
   {
@@ -1055,7 +1066,7 @@
       { "id": "zero", "name": "Zero" }
     ],
     "teamSize": 3,
-    "characterOptions": [
+    "characterConfigs": [
       {
         "id": "assist",
         "name": "Assist",
