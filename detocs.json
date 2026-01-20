@@ -125,6 +125,67 @@
       "smashgg": {
         "id": "4267"
       }
+    },
+    "characters": [
+      { "id": "akira", "name": "Akira" },
+      { "id": "ako", "name": "Ako" },
+      { "id": "asuna", "name": "Asuna" },
+      { "id": "emi", "name": "Emi" },
+      { "id": "kirino", "name": "Kirino" },
+      { "id": "kirito", "name": "Kirito" },
+      { "id": "kuroko", "name": "Kuroko" },
+      { "id": "kuroyukihime", "name": "Kuroyukihime" },
+      { "id": "mikoto", "name": "Mikoto" },
+      { "id": "miyuki", "name": "Miyuki" },
+      { "id": "quenser", "name": "Quenser" },
+      { "id": "rentaro", "name": "Rentaro" },
+      { "id": "selvaria", "name": "Selvaria" },
+      { "id": "shana", "name": "Shana" },
+      { "id": "shizuo", "name": "Shizuo" },
+      { "id": "taiga", "name": "Taiga" },
+      { "id": "tatsuya", "name": "Tatsuya" },
+      { "id": "tomoka", "name": "Tomoka" },
+      { "id": "yukina", "name": "Yukina" },
+      { "id": "yuuki", "name": "Yuuki" }
+    ],
+    "teamConfigs": {
+      "assist": {
+        "id": "assist",
+        "name": "Assist",
+        "options": [
+          { "id": "accelerator", "name": "Accelerator" },
+          { "id": "alicia", "name": "Alicia" },
+          { "id": "boogiepop", "name": "Boogiepop" },
+          { "id": "celty", "name": "Celty" },
+          { "id": "dokuro", "name": "Dokuro" },
+          { "id": "enju", "name": "Enju" },
+          { "id": "erio", "name": "Erio" },
+          { "id": "froleytia", "name": "Froleytia" },
+          { "id": "haruyuki", "name": "Haruyuki" },
+          { "id": "holo", "name": "Holo" },
+          { "id": "innocent-charm", "name": "Innocent Charm" },
+          { "id": "iriya", "name": "Iriya" },
+          { "id": "izaya", "name": "Izaya" },
+          { "id": "kino", "name": "Kino" },
+          { "id": "kojou", "name": "Kojou" },
+          { "id": "kouko", "name": "Kouko" },
+          { "id": "kuroneko", "name": "Kuroneko" },
+          { "id": "leafa", 	"name":	"Leafa" },
+          {	"id": "llenn", "name":"LLENN" },
+          {	"id": "mashiro", "name":"Mashiro" },
+          { "id": "miyuki", "name": "Miyuki" },
+          {	"id": "pai", "name":"Pai" },
+          {	"id": "rusian", "name":"Rusian" },
+          {	"id": "ryuuji", "name":"Ryuuji" },
+          {	"id": "sadao", "name":"Sadao" },
+          { "id": "tatsuya", "name": "Tatsuya" },
+          {	"id": "tomo", "name":"Tomo" },
+          {	"id": "touma", "name":"Touma" },
+          {	"id": "uiharu", "name":"Uiharu" },
+          {	"id": "wilhelmina", "name":"Wilhelmina" },
+          {	"id": "zero", "name":"Zero" }
+        ]
+      }
     }
   },
   {
@@ -256,7 +317,48 @@
       "smashgg": {
         "id": "48548"
       }
-    }
+    },
+    "characters": [
+      { "id": "2b", "name": "2B" },
+      { "id": "anila", "name": "Anila" },
+      { "id": "anre", "name": "Anre" },
+      { "id": "avatar-belial", "name": "Avatar Belial" },
+      { "id": "beatrix", "name": "Beatrix" },
+      { "id": "beelzebub", "name": "Beelzebub" },
+      { "id": "belial", "name": "Belial" },
+      { "id": "cagliostro", "name": "Cagliostro" },
+      { "id": "charlotta", "name": "Charlotta" },
+      { "id": "djeeta", "name": "Djeeta" },
+      { "id": "eustace", "name": "Eustace" },
+      { "id": "ferry", "name": "Ferry" },
+      { "id": "galleon", "name": "Galleon" },
+      { "id": "gran", "name": "Gran" },
+      { "id": "grimnir", "name": "Grimnir" },
+      { "id": "katalina", "name": "Katalina" },
+      { "id": "ladiva", "name": "Ladiva" },
+      { "id": "lancelot", "name": "Lancelot" },
+      { "id": "lowain", "name": "Lowain" },
+      { "id": "lucilius", "name": "Lucilius" },
+      { "id": "lunalu", "name": "Lunalu" },
+      { "id": "meg", "name": "Meg" },
+      { "id": "metera", "name": "Metera" },
+      { "id": "narmaya", "name": "Narmaya" },
+      { "id": "nier", "name": "Nier" },
+      { "id": "percival", "name": "Percival" },
+      { "id": "sandalphon", "name": "Sandalphon" },
+      { "id": "seox", "name": "Seox" },
+      { "id": "siegfried", "name": "Siegfried" },
+      { "id": "soriz", "name": "Soriz" },
+      { "id": "vane", "name": "Vane" },
+      { "id": "vaseraga", "name": "Vaseraga" },
+      { "id": "versusia", "name": "Versusia" },
+      { "id": "vikala", "name": "Vikala" },
+      { "id": "vira", "name": "Vira" },
+      { "id": "wilnas", "name": "Wilnas" },
+      { "id": "yuel", "name": "Yuel" },
+      { "id": "zeta", "name": "Zeta" },
+      { "id": "zooey", "name": "Zooey" }
+    ]
   },
   {
     "id": "ggst",
@@ -581,7 +683,40 @@
       "challonge": {
         "id": "306"
       }
-    }
+    },
+    "characters": [
+      { "id": "akiha", "name": "Akiha" },
+      { "id": "aoko", "name": "Aoko" },
+      { "id": "arcueid", "name": "Arcueid" },
+      { "id": "ciel", "name": "Ciel" },
+      { "id": "hime", "name": "Hime" },
+      { "id": "hisui", "name": "Hisui" },
+      { "id": "kohamech", "name": "Koha-Mech" },
+      { "id": "kohaku", "name": "Kohaku" },
+      { "id": "kouma", "name": "Kouma" },
+      { "id": "len", "name": "Len" },
+      { "id": "maids", "name": "Maids" },
+      { "id": "mech", "name": "Mech-Hisui" },
+      { "id": "miyako", "name": "Miyako" },
+      { "id": "nac", "name": "NAC" },
+      { "id": "nanaya", "name": "Nanaya" },
+      { "id": "necoarc", "name": "Neco-Arc" },
+      { "id": "necomech", "name": "Neco-Mech" },
+      { "id": "nero", "name": "Nero" },
+      { "id": "pciel", "name": "Powered Ciel" },
+      { "id": "redarc", "name": "Red Arcueid" },
+      { "id": "riesbyfe", "name": "Riesbyfe" },
+      { "id": "roa", "name": "Roa" },
+      { "id": "ryougi", "name": "Ryougi" },
+      { "id": "satsuki", "name": "Satsuki" },
+      { "id": "seifuku", "name": "Seifuku" },
+      { "id": "sion", "name": "Sion" },
+      { "id": "tohno", "name": "Tohno" },
+      { "id": "vakiha", "name": "V.Akiha" },
+      { "id": "vsion", "name": "V.Sion" },
+      { "id": "warachia", "name": "Warachia" },
+      { "id": "wlen", "name": "White Len" }
+    ]
   },
   {
     "id": "mk1",
@@ -988,7 +1123,49 @@
       "challonge": {
         "id": "236261"
       }
-    }
+    },
+    "characters": [
+      { "id": "alisa", "name": "Alisa" },
+      { "id": "anna", "name": "Anna" },
+      { "id": "armor-king", "name": "Armor King" },
+      { "id": "asuka", "name": "Asuka" },
+      { "id": "azucena", "name": "Azucena" },
+      { "id": "bryan", "name": "Bryan" },
+      { "id": "claudio", "name": "Claudio" },
+      { "id": "clive", "name": "Clive" },
+      { "id": "devil-jin", "name": "Devil Jin" },
+      { "id": "dragunov", "name": "Dragunov" },
+      { "id": "eddy", "name": "Eddy" },
+      { "id": "fahkumram", "name": "Fahkumram" },
+      { "id": "feng", "name": "Feng" },
+      { "id": "heihachi", "name": "Heihachi" },
+      { "id": "hwoarang", "name": "Hwoarang" },
+      { "id": "jack-8", "name": "Jack-8" },
+      { "id": "jin", "name": "Jin" },
+      { "id": "jun", "name": "Jun" },
+      { "id": "kazuya", "name": "Kazuya" },
+      { "id": "king", "name": "King" },
+      { "id": "kuma", "name": "Kuma" },
+      { "id": "lars", "name": "Lars" },
+      { "id": "law", "name": "Law" },
+      { "id": "lee", "name": "Lee" },
+      { "id": "leo", "name": "Leo" },
+      { "id": "leroy", "name": "Leroy" },
+      { "id": "lidia", "name": "Lidia" },
+      { "id": "lili", "name": "Lili" },
+      { "id": "miary-zo", "name": "Miary Zo" },
+      { "id": "nina", "name": "Nina" },
+      { "id": "panda", "name": "Panda" },
+      { "id": "paul", "name": "Paul" },
+      { "id": "raven", "name": "Raven" },
+      { "id": "reina", "name": "Reina" },
+      { "id": "shaheen", "name": "Shaheen" },
+      { "id": "steve", "name": "Steve" },
+      { "id": "victor", "name": "Victor" },
+      { "id": "xiaoyu", "name": "Xiaoyu" },
+      { "id": "yoshimitsu", "name": "Yoshimitsu" },
+      { "id": "zafina", "name": "Zafina" }
+    ]
   },
   {
     "id": "umvc3",
@@ -1131,7 +1308,36 @@
       "smashgg": {
         "id": "50203"
       }
-    }
+    },
+    "characters": [
+      { "id": "akatsuki", "name": "Akatsuki" },
+      { "id": "byakuya", "name": "Byakuya" },
+      { "id": "carmine", "name": "Carmine" },
+      { "id": "chaos", "name": "Chaos" },
+      { "id": "eltnum", "name": "Eltnum" },
+      { "id": "enkidu", "name": "Enkidu" },
+      { "id": "gordeau", "name": "Gordeau" },
+      { "id": "hilda", "name": "Hilda" },
+      { "id": "hyde", "name": "Hyde" },
+      { "id": "izumi", "name": "Izumi" },
+      { "id": "kaguya", "name": "Kaguya" },
+      { "id": "kuon", "name": "Kuon" },
+      { "id": "linne", "name": "Linne" },
+      { "id": "londrekia", "name": "Londrekia" },
+      { "id": "merkava", "name": "Merkava" },
+      { "id": "mika", "name": "Mika" },
+      { "id": "nanase", "name": "Nanase" },
+      { "id": "ogre", "name": "Ogre" },
+      { "id": "orie", "name": "Orie" },
+      { "id": "phonon", "name": "Phonon" },
+      { "id": "seth", "name": "Seth" },
+      { "id": "tsurugi", "name": "Tsurugi" },
+      { "id": "uzuki", "name": "Uzuki" },
+      { "id": "vatista", "name": "Vatista" },
+      { "id": "wagner", "name": "Wagner" },
+      { "id": "waldstein", "name": "Waldstein" },
+      { "id": "yuzuriha", "name": "Yuzuriha" }
+    ]
   },
   {
     "id": "usf4",
@@ -1152,6 +1358,52 @@
       "challonge": {
         "id": "1234"
       }
-    }
+    },
+    "characters": [
+      { "id": "abel", "name": "Abel" },
+      { "id": "adon", "name": "Adon" },
+      { "id": "akuma", "name": "Akuma" },
+      { "id": "balrog", "name": "Balrog" },
+      { "id": "blanka", "name": "Blanka" },
+      { "id": "c-viper", "name": "C. Viper" },
+      { "id": "cammy", "name": "Cammy" },
+      { "id": "chun-li", "name": "Chun-Li" },
+      { "id": "cody", "name": "Cody" },
+      { "id": "dan", "name": "Dan" },
+      { "id": "decapre", "name": "Decapre" },
+      { "id": "dee-jay", "name": "Dee Jay" },
+      { "id": "dhalsim", "name": "Dhalsim" },
+      { "id": "dudley", "name": "Dudley" },
+      { "id": "e-honda", "name": "E. Honda" },
+      { "id": "el-fuerte", "name": "El Fuerte" },
+      { "id": "elena", "name": "Elena" },
+      { "id": "evil-ryu", "name": "Evil Ryu" },
+      { "id": "fei-long", "name": "Fei Long" },
+      { "id": "gen", "name": "Gen" },
+      { "id": "gouken", "name": "Gouken" },
+      { "id": "guile", "name": "Guile" },
+      { "id": "guy", "name": "Guy" },
+      { "id": "hakan", "name": "Hakan" },
+      { "id": "hugo", "name": "Hugo" },
+      { "id": "ibuki", "name": "Ibuki" },
+      { "id": "juri", "name": "Juri" },
+      { "id": "ken", "name": "Ken" },
+      { "id": "m-bison", "name": "M. Bison" },
+      { "id": "makoto", "name": "Makoto" },
+      { "id": "oni", "name": "Oni" },
+      { "id": "poison", "name": "Poison" },
+      { "id": "rolento", "name": "Rolento" },
+      { "id": "rose", "name": "Rose" },
+      { "id": "rufus", "name": "Rufus" },
+      { "id": "ryu", "name": "Ryu" },
+      { "id": "sagat", "name": "Sagat" },
+      { "id": "sakura", "name": "Sakura" },
+      { "id": "seth", "name": "Seth" },
+      { "id": "t-hawk", "name": "T. Hawk" },
+      { "id": "vega", "name": "Vega" },
+      { "id": "yang", "name": "Yang" },
+      { "id": "yun", "name": "Yun" },
+      { "id": "zangief", "name": "Zangief" }
+    ]
   }
 ]
