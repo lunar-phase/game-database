@@ -43,6 +43,24 @@
     ]
   },
   {
+    "id": "aof3",
+    "name": "Art of Fighting 3",
+    "shortNames": [
+      "AOF3"
+    ],
+    "hashtags": [
+      "AOF3"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Art of Fighting 3: The Path of The Warrior"
+      },
+      "smashgg": {
+        "id": "33799"
+      }
+    }
+  },
+  {
     "id": "bbcf",
     "name": "Blazblue Central Fiction",
     "shortNames": [
@@ -80,6 +98,24 @@
       },
       "smashgg": {
         "id": "12860"
+      }
+    }
+  },
+  {
+    "id": "cvs2",
+    "name": "Capcom vs SNK 2",
+    "shortNames": [
+      "CvS2"
+    ],
+    "hashtags": [
+      "CvS2"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+      },
+      "smashgg": {
+        "id": "39"
       }
     }
   },
@@ -974,6 +1010,24 @@
     }
   },
   {
+    "id": "shc",
+    "name": "Scramble Heart City",
+    "shortNames": [
+      "SHC"
+    ],
+    "hashtags": [
+      "ScrambleHeartCity"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Scramble Heart City"
+      },
+      "smashgg": {
+        "id": "86263"
+      }
+    }
+  },
+  {
     "id": "ss7",
     "name": "Samurai Shodown",
     "shortNames": [
@@ -994,7 +1048,9 @@
       "challonge": {
         "id": "39280"
       }
-    }
+    },
+    "characters": [
+    ]
   },
   {
     "id": "ssbb",
@@ -1405,5 +1461,42 @@
       { "id": "yun", "name": "Yun" },
       { "id": "zangief", "name": "Zangief" }
     ]
+  },
+  {
+    "id": "vf5",
+    "name": "Virtua Fighter 5",
+    "shortNames": [
+      "VF5"
+    ],
+    "hashtags": [
+      "VF5"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Virtua Fighter 5 R.E.V.O."
+      },
+      "smashgg": {
+        "id": "89755"
+      }
+    }
+  },
+  {
+    "id": "vsav",
+    "name": "Vampire Savior: The Lord of Vampire",
+    "shortNames": [
+      "Vampire Savior",
+      "VSAV"
+    ],
+    "hashtags": [
+      "VSAV"
+    ],
+    "serviceInfo": {
+      "twitch": {
+        "id": "Vampire Savior: The Lord of Vampire"
+      },
+      "smashgg": {
+        "id": "582"
+      }
+    }
   }
 ]
