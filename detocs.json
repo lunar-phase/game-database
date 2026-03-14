@@ -693,7 +693,31 @@
       "challonge": {
         "id": "251352"
       }
-    }
+    },
+    "characters": [
+      { "id": "akiha", "name": "Akiha" },
+      { "id": "aoko", "name": "Aoko" },
+      { "id": "arcueid", "name": "Arcueid" },
+      { "id": "ciel", "name": "Ciel" },
+      { "id": "dan", "name": "DA Noel" },
+      { "id": "hisui", "name": "Hisui" },
+      { "id": "kohaku", "name": "Kohaku" },
+      { "id": "kouma", "name": "Kouma" },
+      { "id": "maids", "name": "Maids" },
+      { "id": "mario", "name": "Mario" },
+      { "id": "mash", "name": "Mash" },
+      { "id": "miyako", "name": "Miyako" },
+      { "id": "necoarc", "name": "Neco-Arc" },
+      { "id": "noel", "name": "Noel" },
+      { "id": "pciel", "name": "Powered Ciel" },
+      { "id": "redarc", "name": "Red Arcueid" },
+      { "id": "roa", "name": "Roa" },
+      { "id": "saber", "name": "Saber" },
+      { "id": "shiki", "name": "Shiki" },
+      { "id": "dantes", "name": "The Count" },
+      { "id": "ushi", "name": "Ushiwakamaru" },
+      { "id": "vlov", "name": "Vlov" }
+    ]
   },
   {
     "id": "melty",
