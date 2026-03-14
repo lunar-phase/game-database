@@ -753,6 +753,17 @@
       { "id": "vsion", "name": "V.Sion" },
       { "id": "warachia", "name": "Warachia" },
       { "id": "wlen", "name": "White Len" }
+    ],
+    "characterConfigs": [
+      {
+        "id": "moon",
+        "name": "Moon",
+        "options": [
+          { "id": "crecent", "name": "Crecent" },
+          { "id": "half", "name": "Half" },
+          { "id": "full", "name": "Full" }
+        ]
+      }
     ]
   },
   {
