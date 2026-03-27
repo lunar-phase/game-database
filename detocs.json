@@ -963,6 +963,7 @@
     "characters": [
       { "id": "aki", "name": "A.K.I." },
       { "id": "akuma", "name": "Akuma" },
+      { "id": "alex", "name": "Alex" },
       { "id": "blanka", "name": "Blanka" },
       { "id": "c-viper", "name": "C. Viper" },
       { "id": "cammy", "name": "Cammy" },
