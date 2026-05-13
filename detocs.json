@@ -226,8 +226,8 @@
       { "id": "yukina", "name": "Yukina" },
       { "id": "yuuki", "name": "Yuuki" }
     ],
-    "teamConfigs": {
-      "assist": {
+    "teamConfigs": [
+      {
         "id": "assist",
         "name": "Assist",
         "options": [
@@ -264,7 +264,7 @@
           {	"id": "zero", "name":"Zero" }
         ]
       }
-    }
+    ]
   },
   {
     "id": "dnf",
