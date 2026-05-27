@@ -491,7 +491,42 @@
       "challonge": {
         "id": "198501"
       }
-    }
+    },
+    "characters": [
+      { "id": "aba", "name": "A.B.A" },
+      { "id": "anji", "name": "Anji" },
+      { "id": "asuka", "name": "Asuka" },
+      { "id": "axl", "name": "Axl" },
+      { "id": "baiken", "name": "Baiken" },
+      { "id": "bedman?", "name": "Bedman?" },
+      { "id": "bridget", "name": "Bridget" },
+      { "id": "chipp", "name": "Chipp" },
+      { "id": "dizzy", "name": "Dizzy" },
+      { "id": "elphelt", "name": "Elphelt" },
+      { "id": "faust", "name": "Faust" },
+      { "id": "giovanna", "name": "Giovanna" },
+      { "id": "goldlewis", "name": "Goldlewis" },
+      { "id": "happy-chaos", "name": "Happy Chaos" },
+      { "id": "i-no", "name": "I-No" },
+      { "id": "jack-o'", "name": "Jack-O'" },
+      { "id": "jam", "name": "Jam" },
+      { "id": "johnny", "name": "Johnny" },
+      { "id": "ky", "name": "Ky" },
+      { "id": "leo", "name": "Leo" },
+      { "id": "lucy", "name": "Lucy" },
+      { "id": "may", "name": "May" },
+      { "id": "millia", "name": "Millia" },
+      { "id": "nagoriyuki", "name": "Nagoriyuki" },
+      { "id": "potemkin", "name": "Potemkin" },
+      { "id": "ramlethal", "name": "Ramlethal" },
+      { "id": "sin", "name": "Sin" },
+      { "id": "slayer", "name": "Slayer" },
+      { "id": "sol", "name": "Sol" },
+      { "id": "testament", "name": "Testament" },
+      { "id": "unika", "name": "Unika" },
+      { "id": "venom", "name": "Venom" },
+      { "id": "zato", "name": "Zato" }
+    ]
   },
   {
     "id": "ggxrd",
