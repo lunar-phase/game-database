@@ -47,6 +47,31 @@
     ]
   },
   {
+    "id": "al",
+    "name": "Avatar Legends: The Fighting Game",
+    "shortNames": [
+      "Avatar Legends"
+    ],
+    "hashtags": [
+    ],
+    "serviceInfo": {
+    },
+    "characters": [
+      { "name": "Aang", "id": "aang" },
+      { "name": "Avatar Aang", "id": "avatar-aang" },
+      { "name": "Azula", "id": "azula" },
+      { "name": "Katara", "id": "katara" },
+      { "name": "Korra", "id": "korra" },
+      { "name": "Kyoshi", "id": "kyoshi" },
+      { "name": "Nightmare Korra", "id": "nightmare-korra" },
+      { "name": "Ozai", "id": "ozai" },
+      { "name": "Sokka", "id": "sokka" },
+      { "name": "Toph", "id": "toph" },
+      { "name": "Zaheer", "id": "zaheer" },
+      { "name": "Zuko", "id": "zuko" }
+    ]
+  },
+  {
     "id": "aof3",
     "name": "Art of Fighting 3",
     "shortNames": [
@@ -331,6 +356,7 @@
       { "id": "mr-karate", "name": "Mr. Karate" },
       { "id": "geese", "name": "Nightmare Geese" },
       { "id": "preecha", "name": "Preecha" },
+      { "id": "rick-strowd", "name": "Rick Strowd" },
       { "id": "rock", "name": "Rock" },
       { "id": "ronaldo", "name": "Ronaldo" },
       { "id": "salvatore", "name": "Salvatore" },
